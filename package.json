@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.19.0",
     "css-utils-collection": "^1.1.0",
     "jquery": "^3.2.1",
     "moment": "^2.18.1",
